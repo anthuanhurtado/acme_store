@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package controllers;
+package convert;
 
 /**
  *
- * @author Anthony
+ * @author BLABPC23
  */
-public class ControllerMain {
+public class Convertidor {
     
 }
